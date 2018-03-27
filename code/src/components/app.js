@@ -42,7 +42,7 @@ class App extends React.Component {
             <div className="box-content">
               <h2>The boy who tamed the sea</h2>
               <p className="article-text">at 5:30 am, on any morning I can handle it,
-                 I'll spill of the dark mouth of covers and
+                 I&apos;ll spill of the dark mouth of covers and
                  creep through the silver lig....
               </p>
               <img className="writer-img" src="./images/writer-1.png" />
